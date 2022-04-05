@@ -42,6 +42,12 @@ A propriedade `spring.jpa.hibernate.ddl-auto=validate` significa que o Spring va
     "nome": "Nome",
     "email": "email@gmail.com",
     "telefone": "3524568254"
+},
+{
+    "id": 2,
+    "nome": "Nome 2",
+    "email": "email2@gmail.com",
+    "telefone": "1135789054"
 }
 ```
 

@@ -51,3 +51,8 @@ A propriedade `spring.jpa.hibernate.ddl-auto=validate` significa que o Spring va
 }
 ```
 
+## Para rodar a aplicação
+
+```bash
+$ mvn:spring-boot:run
+```

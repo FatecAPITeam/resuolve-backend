@@ -14,7 +14,7 @@ spring.datasource.username=postgres
 spring.datasource.password=password
 ````
 
-A propriedade `spring.jpa.hibernate.ddl-auto=validate` significa que o Spring vai validar se as colunas configuradas na entidade existem no banco de dados. Para fazer com que o próprio Spring Boot crie as tabelas e suas colunas, é preciso mudar para `spring.jpa.hibernate.ddl-auto=update`
+A propriedade `spring.jpa.hibernate.ddl-auto=validate` significa que o Spring vai validar se as colunas configuradas na entidade existem no banco de dados. Para fazer com que o próprio Spring Boot crie as tabelas e suas colunas, é preciso alterar para `spring.jpa.hibernate.ddl-auto=update`
 
 ## Rotas
 `/resuolve/usuario`
